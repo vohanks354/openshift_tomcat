@@ -127,7 +127,7 @@ parameters:
   displayName: Application Source Git URL
   description: The Git URL of the application source code
   required: true
-  value: https://vohanks354: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@github.com/vohanks354/openshift_project.git
+  value: https://github.com/vohanks354/openshift_tomcat.git
 - name: SECRET
   displayName: Webhook Secret
   description: Secret for webhooks
